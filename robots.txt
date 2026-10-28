@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://haedeunmassage.netlify.app/sitemap.xml
-Sitemap: https://haedeunmassage.netlify.app/sitemap-hub.xml
-Sitemap: https://haedeunmassage.netlify.app/sitemap-area.xml
-Sitemap: https://haedeunmassage.netlify.app/sitemap-topic.xml
-Sitemap: https://haedeunmassage.netlify.app/rss.xml
+Sitemap: https://haedeunmassage.pages.dev/sitemap.xml
+Sitemap: https://haedeunmassage.pages.dev/sitemap-hub.xml
+Sitemap: https://haedeunmassage.pages.dev/sitemap-area.xml
+Sitemap: https://haedeunmassage.pages.dev/sitemap-topic.xml
+Sitemap: https://haedeunmassage.pages.dev/rss.xml
